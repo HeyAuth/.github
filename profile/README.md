@@ -11,7 +11,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://find.yxqi.cn" alt="logo" ><img src="./static/HeyAuth.png" width="150"/></a>
+  <a href="https://find.yxqi.cn" alt="logo" ><img src="./HeyAuth.png" width="150"/></a>
   <br>
   HeyAuth 海枫授权系统
   <br>
