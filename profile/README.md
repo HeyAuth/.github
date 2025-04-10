@@ -46,5 +46,6 @@ HeyAuth 是一款基于 Python 的正版认证授权系统，它同时支持对B
 - Backend: FastAPI + SQLModel
 
 ## 价格 Pricing
-此项目不免费开放（一年来的心血啊），但是价格也不是特别贵，详情可 [前往授权站](https://auth.yxqi.cn/product/1) 查看。
+此项目不免费开放（一年来的心血啊），但我们还计划推出免费开源版本的 HeyAuth Lite 。
+价格也不是特别贵，详情可 [前往授权站](https://auth.yxqi.cn/product/1) 查看。
 当然此项目也对 `教育或受教育群体`, `特殊贡献群体`， `公益组织` 进行优惠或减免，欢迎联系微信 `yuxiaoqiu2333` 咨询。
